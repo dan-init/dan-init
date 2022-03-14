@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dan-init
 - 👀 I’m interested in python, data science, automation & solving problems
-- 🌱 I’m currently learning python, data structures & algorithm 
+- 🌱 I’m currently learning python, data structures & algorithms
 - 💞️ I’m looking to collaborate on any python projects that will push my boundaries and help me learn more. 
 - 📫 How to reach me, e-mail dan__init__@outlook.com
 
